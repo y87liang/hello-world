@@ -1,5 +1,5 @@
 # hello-world
-Just another repository 
+
 Hi Humans!
 
 Michelle here, I am going to be in university soon and I am so excited as well as extremely nervous.
